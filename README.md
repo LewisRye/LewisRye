@@ -1,4 +1,4 @@
-###👋
+👋
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently studying Computer Science
 
