@@ -1,7 +1,7 @@
 👋
 - 😄 He/Him
-- 🌱 Currently studying Computer Science
-- 💬 Ask me about UI development
+- 🌱 Currently studying Computer Science at Sussex
+- 💬 Ask me about C# UI development
 
 
 <!--
