@@ -1,6 +1,6 @@
 👋
 - 😄 He/Him
-- 🌱 Currently studying Computer Science at Sussex
+- 🌱 BSc Computer Science at Sussex
 - 💬 Ask me about C# UI development
 
 
