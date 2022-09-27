@@ -3,6 +3,7 @@
 - 🌱 BSc Computer Science at Sussex
 - 💬 Ask me about C# UI development
 
+[![Lewis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=LewisRye)](https://github.com/LewisRye/github-readme-stats)
 
 <!--
 **LewisRye/LewisRye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
