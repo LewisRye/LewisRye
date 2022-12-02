@@ -1,6 +1,10 @@
-- 🌱 BSc Computer Science at Sussex since 2022
+- 🌱 BSc Computer Science, University of Sussex
 - 💬 Ask me about my projects
 
-<a href="#"><img align="left" height=170 src="https://github-readme-stats.vercel.app/api?username=lewisrye&hide=contribs,issues&hide_border=true&theme=merko&disable_animations=true" alt="Lewis' GitHub Stats" /></a> 
+<a>
+  <img align="left" height=150 src="https://github-readme-stats.vercel.app/api?username=lewisrye&hide=contribs,issues&hide_border=true&theme=merko&disable_animations=true" alt="Lewis' GitHub Stats" style="max-width: 100%; padding-right: 0px;" /
+</a> 
 
-<a href="#"><img align="center" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisRye&layout=compact&hide_border=true&theme=merko" /></a>
+<a>
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisRye&layout=compact&hide_border=true&theme=merko" alt="Lewis' Most Used Languages" />
+</a>
