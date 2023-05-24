@@ -1,4 +1,5 @@
 - 🌱 BSc Computer Science, University of Sussex
+- ☕ Preferred language is Java
 - 💬 Ask me about my projects
 
 <a>
