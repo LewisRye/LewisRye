@@ -1,6 +1,6 @@
 - 🌱 BSc Computer Science, University of Sussex
   
-- 💬 Ask me about my projects
+- 💬 Feel free to connect further on [LinkedIn](https://www.linkedin.com/in/lewis-rye/)
   
 - 💻 My favourite technologies:
   
